@@ -1,11 +1,9 @@
 
 ![image info](images/simplisafe_logo.svg)
-<p style="text-align: center; font-size: 200%;">
+<p style="text-align: center; font-size: 250%;">
 Senior QA Engineer</p>
 
-
-😄 Pronouns: He/Him/His <br>
-🌱 I’m currently learning: Test Automation
+I’m currently learning: Python, PHP, SQL
 
 <!--
 **simplitimmackenzie/simplitimmackenzie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
