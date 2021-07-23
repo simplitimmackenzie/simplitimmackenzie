@@ -1,4 +1,11 @@
-### Hi there 👋
+
+![image info](images/simplisafe_logo.svg)
+<p style="text-align: center; font-size: 200%;">
+Senior QA Engineer</p>
+
+
+😄 Pronouns: He/Him/His <br>
+🌱 I’m currently learning: Test Automation
 
 <!--
 **simplitimmackenzie/simplitimmackenzie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
