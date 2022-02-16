@@ -1,7 +1,7 @@
 
 ![image info](images/simplisafe_logo.svg)  
 
-## Repos I've Contributed to:**  
+## Repos I've Contributed to:  
 [jawa](https://github.com/simplisafe/jawa) - Angular WebApp for Warehouse Fulfillment  
 [tf-jawa](https://github.com/simplisafe/tf-jawa) - Terraform for Jawa  
 [simplisafe.com](https://github.com/simplisafe/simplisafe.com) - Drupal Simplisafe.com Ecommerce Website and CRM Monolith  
