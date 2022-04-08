@@ -6,8 +6,8 @@
 [tf-jawa](https://github.com/simplisafe/tf-jawa) - Terraform for Jawa  
 [simplisafe.com](https://github.com/simplisafe/simplisafe.com) - Simplisafe.com Ecommerce Website and CRM Monolith  
 [ss_sql_changes](https://github.com/simplisafe/ss_sql_changes)
-[hutt](https://github.com/simplisafe/hutt) - Symphony API for Integration with Third Party Fulfillment Provider
-[plexus](https://github.com/simplisafe/plexus) - Symphony API Integration with Third Party SHipping Label Service  
+[hutt](https://github.com/simplisafe/hutt) - Symphony API for Integration with Third Party Fulfillment Provider  
+[plexus](https://github.com/simplisafe/plexus) - Symphony API Integration with Third Party Shipping Label Service  
 [ops-mysql-dev](https://github.com/simplisafe/ops-mysql-dev) - Bash script for creating sanitized SQL database for devs  
 
 
